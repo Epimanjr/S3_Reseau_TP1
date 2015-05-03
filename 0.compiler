@@ -1,0 +1,3 @@
+#!/bin/bash
+
+javac -cp "src:src/reseau" -d "build/classes" src/reseau/*.java
